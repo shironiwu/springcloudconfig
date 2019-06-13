@@ -1,3 +1,0 @@
-server:
-  port: 8001
-hello: hello,欢迎来到config server！ 这个是从git上获取的，晓得不
