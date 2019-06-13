@@ -1,0 +1,3 @@
+server:
+  port: 8001
+hello: hello,欢迎来到config server！ git
